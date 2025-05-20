@@ -22,7 +22,7 @@ Página desenvolvida para estudar o básico de tecnologias WEB.
 </p>
 <p align="center>
     <img alt="sobre mim" src=".github/Light mode.png" width="100%">
-</>
+<p/>
 
 ## 🚀 Tecnologias
 
